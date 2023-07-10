@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ripter</string>
+    <string name="urlapi">http://192.168.0.103:8000/api</string>
+    <string name="inicio">Inicio</string>
+    <string name="empresas">Empresas</string>
+    <string name="zonas">Zonas</string>
+    <string name="sismos">Sismos</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="salir">Salir</string>
+    <string name="navigation_drawer_open">Abrir navegación</string>
+    <string name="navigation_drawer_close">Cerrar navegación</string>
+
+</resources>

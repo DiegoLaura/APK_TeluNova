@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/inicio"
+        android:id="@+id/op"
+        android:icon="@drawable/ic_inicio">
+    </item>
+    <item android:title="@string/empresas"
+        android:id="@+id/op1"
+        android:icon="@drawable/ic_empresa">
+    </item>
+
+    <item android:title="@string/zonas"
+        android:id="@+id/op2"
+        android:icon="@drawable/ic_zona">
+    </item>
+
+    <item android:title="@string/sismos"
+        android:id="@+id/op3"
+        android:icon="@drawable/ic_sismos">
+    </item>
+
+    <item android:title="@string/contactanos"
+        android:id="@+id/op4"
+        android:icon="@drawable/ic_contactanos">
+    </item>
+    <item android:title="@string/salir"
+        android:id="@+id/op5"
+        android:icon="@drawable/ic_salir">
+    </item>
+
+</menu>
